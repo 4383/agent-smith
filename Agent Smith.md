@@ -33,6 +33,10 @@ Here are key Zettelkasten concepts:
 ## [[ARGUMENTS]]
 
 Our [[ARGUMENTS]]
+
+## [[CONCEPTS]]
+
+Proposed [[CONCEPTS]] or useful ones.
 ## [[DRAFTS]]
 
 [[DRAFTS]] to store all kind of drafts that we might create.
