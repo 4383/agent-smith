@@ -1,5 +1,9 @@
-# Editorial Line Factory
-
+MOC : [[TOOLS]]
+Source : 
+Author : [[Hervé Beraud]]
+Tags : 
+Date : 2025-06-18
+***
 ## Purpose of this Document
 
 To create effective online content, we must begin by:

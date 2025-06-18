@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "9ed670b794ca9729",
+    "type": "split",
+    "children": [
+      {
+        "id": "65f5b5b004d0ded0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "081a34132932e15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent Smith.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent Smith"
+            }
+          },
+          {
+            "id": "c3622d9f6f884ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Editorial Line Factory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Editorial Line Factory"
+            }
+          },
+          {
+            "id": "bd0543cc1e7a34d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hervé Beraud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hervé Beraud"
+            }
+          },
+          {
+            "id": "060dd0efbca1d7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent Smith.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent Smith"
+            }
+          },
+          {
+            "id": "7815f757a511f97a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nobody loves to run race with new shoes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nobody loves to run race with new shoes"
+            }
+          },
+          {
+            "id": "4788b5fe0aad97e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ea569ade80f92807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VISION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VISION"
+            }
+          },
+          {
+            "id": "4be726b37022de4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MANIFESTO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MANIFESTO"
+            }
+          },
+          {
+            "id": "f6fb720528bf9c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/template-note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "template-note"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d13390796e92ebd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6e5aa94f044919f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0391eb5129c4534",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "675344e82a8adb98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "51486480d3510a55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "299a5eca0bcbfcb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "732f953e6e9f403a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd570d3e3b330596",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "603f847305d54d89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e4a0b5ce9b7ca58a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "630ba5cf1b70e41b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4788b5fe0aad97e4",
+  "lastOpenFiles": [
+    "Yucca Moths.md",
+    "nobody loves to run race with new shoes.md",
+    "nobody loves to run race with new shoes Toulmin argumentation.md",
+    "Agent Smith.md",
+    "METAPHORS.md",
+    "Blog_Draft_one.pdf",
+    "Kacper Kulakowski.md",
+    "TEAM.md",
+    "TOOLS.md",
+    "VISION.md",
+    "ARGUMENTS.md",
+    "MANIFESTO.md",
+    "templates/template-note.md",
+    "EDITORIAL LINE.md",
+    "BLOG.md",
+    "Blog_Post_draft_four.pdf",
+    "zettelkasten.md",
+    "DRAFTS.md",
+    "Hervé Beraud.md",
+    "README.md",
+    "Editorial Line Factory.md",
+    "templates"
+  ]
+}

@@ -1,3 +1,9 @@
+MOC : [[DRAFTS]], [[BLOG]]
+Source : 
+Author : [[Hervé Beraud]]
+Tags : 
+Date : 2025-06-17
+***
 ## Proposed Title:
 Nobody loves to run a race with new shoes
 

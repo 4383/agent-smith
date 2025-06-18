@@ -1,4 +1,10 @@
-# Toulmin Argumentation for "Nobody loves to run a race with new shoes"
+MOC : [[nobody loves to run race with new shoes]], [[ARGUMENTS]]
+Source : 
+Author : [[Hervé Beraud]]
+Tags : 
+Date : 2025-06-17
+***
+## Toulmin Argumentation for "Nobody loves to run a race with new shoes"
 
 ## Claim (Assertion)
 
