@@ -81,36 +81,51 @@ Let’s practice by filling in the lists below:
 **List 1: What recent topics have sparked strong interest in our domain?**
 
 (1) \_\_\_\_\_
+
 (2) \_\_\_\_\_
+
 (3) \_\_\_\_\_
+
 (4) \_\_\_\_\_
 
 **List 2: What recent events have been widely discussed in our field?**
 
 (1) \_\_\_\_\_
+
 (2) \_\_\_\_\_
+
 (3) \_\_\_\_\_
+
 (4) \_\_\_\_\_
 
 **List 3: What recent controversies have caused debates in our domain?**
 
 (1) \_\_\_\_\_
+
 (2) \_\_\_\_\_
+
 (3) \_\_\_\_\_
+
 (4) \_\_\_\_\_
 
 **List 4: What are the most recent tools, products, or books released in our space?**
 
 (1) \_\_\_\_\_
+
 (2) \_\_\_\_\_
+
 (3) \_\_\_\_\_
+
 (4) \_\_\_\_\_
 
 **List 5: What are people currently afraid of in our domain?**
 
 (1) \_\_\_\_\_
+
 (2) \_\_\_\_\_
+
 (3) \_\_\_\_\_
+
 (4) \_\_\_\_\_
 
 One important note:
