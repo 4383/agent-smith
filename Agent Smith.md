@@ -46,6 +46,13 @@ Our [[MANIFESTO]]
 ## [[METAPHORS]]
 
 Our collected or created [[METAPHORS]]
+## [[PLAN]]
+
+Proposed [[PLAN]]
+
+## [[PROBLEMS]]
+
+Identified [[PROBLEMS]]
 ## [[TEAM]]
 
 All [[TEAM]] members.
