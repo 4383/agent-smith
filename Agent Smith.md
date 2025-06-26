@@ -46,16 +46,24 @@ Our [[MANIFESTO]]
 ## [[METAPHORS]]
 
 Our collected or created [[METAPHORS]]
+## [[METHODOLOGIES]]
+
+[[METHODOLOGIES]] that we should be aware of, or that we may want to use.
 ## [[PLAN]]
 
 Proposed [[PLAN]]
-
 ## [[PROBLEMS]]
 
 Identified [[PROBLEMS]]
+## [[SOLUTIONS]]
+
+Proposed [[SOLUTIONS]]
 ## [[TEAM]]
 
 All [[TEAM]] members.
+## [[TECHNOLOGIES]]
+
+[[TECHNOLOGIES]] that we want to use
 ## [[TOOLS]]
 
 [[TOOLS]] are common tools that we can use to work with this repository and to reach our goal

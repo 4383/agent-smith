@@ -3,14 +3,12 @@ MOC : [[Agent Smith]]
 Source : 
 Author : 
 Tags : 
-Date : 2025-06-25
+Date : 2025-06-26
 ***
-## Identified problems
-
-### 1. Resistance to change
-![[Resistance to change]]
-
-
+- [[AI]]
+- [[Machine Learning]]
+- [[Genetic Algorithms]]
+- [[Cognitive Sciences]]
 ***
 #### References
 
