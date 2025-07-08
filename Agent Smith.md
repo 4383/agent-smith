@@ -30,13 +30,18 @@ Here are key Zettelkasten concepts:
 - Non MOC notes can also reference other Non MOC notes;
 - MOC can reference Non MOC notes;
 
+## [[ARCHITECTURE]]
+
+Proposed [[ARCHITECTURE]] or useful ones.
 ## [[ARGUMENTS]]
 
 Our [[ARGUMENTS]]
-
 ## [[CONCEPTS]]
 
 Proposed [[CONCEPTS]] or useful ones.
+## [[DESIGN]]
+
+Proposed [[DESIGN]] or useful ones.
 ## [[DRAFTS]]
 
 [[DRAFTS]] to store all kind of drafts that we might create.

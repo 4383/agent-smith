@@ -1,11 +1,11 @@
 
-MOC : [[Agent Smith]], [[METAPHORS]]
+MOC : [[AGILE]], [[CONCEPTS]]
 Source : 
 Author : 
 Tags : 
-Date : 2025-06-18
+Date : 2025-07-08
 ***
-- [[Scrum master as code]]
+
 ***
 #### References
 

@@ -39,6 +39,8 @@ Agent Smith will act as a **silent, continuous background agent**, embedded into
 - Passive data collection from project sources (e.g., Jira, Git, retrospectives)
 - Detection of predefined and dynamic patterns (e.g., chronic underestimation, WIP inflation, irregular commits)
 
+More details about [[observation and pattern detection]].
+
 ### B. **Analysis & Decision-Making**
 
 - Specialized sub-agents focus on different scopes (e.g., Sprint Agent, Story Agent, WIP Agent)
