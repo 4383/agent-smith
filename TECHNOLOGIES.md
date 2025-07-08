@@ -9,6 +9,11 @@ Date : 2025-06-26
 - [[Machine Learning]]
 - [[Genetic Algorithms]]
 - [[Cognitive Sciences]]
+- [[Neo4J]]
+- [[PostgreSQL]]
+- [[Slack]]
+- [[Jira]]
+- [[Python]]
 ***
 #### References
 

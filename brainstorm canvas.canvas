@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"9f2766145576e790","x":-1080,"y":-460,"width":400,"height":400,"type":"file","file":"PLAN.md"},
+		{"id":"380f9e23b8a440f8","x":-480,"y":-460,"width":400,"height":400,"type":"file","file":"observation and pattern detection.md"},
+		{"id":"66015726842a90a2","x":160,"y":-460,"width":400,"height":400,"type":"file","file":"Jira structure to implement observation and pattern detection.md"},
+		{"id":"9f8e8d52e7dac6c1","x":-1080,"y":-1080,"width":400,"height":400,"type":"file","file":"PROBLEMS.md"},
+		{"id":"8484467df98bf62f","x":160,"y":120,"width":400,"height":400,"type":"file","file":"epic 1 - foundations backend architecture and data ingestion.md"},
+		{"id":"f21e5f492b7d4327","x":160,"y":680,"width":400,"height":400,"type":"file","file":"epic 2 - Graph-Based Pattern Detection for Decision Support.md"},
+		{"id":"67102697aa251a48","x":-480,"y":680,"width":400,"height":400,"type":"file","file":"epic 3 - Decision Agent and Alert Delivery System.md"},
+		{"id":"e47e80353c30d61b","x":-1080,"y":680,"width":400,"height":400,"type":"file","file":"epic 4 - ML-Based Enhancement and Adaptive Pattern Discovery.md"},
+		{"id":"a1c0804573564bfa","x":-1080,"y":120,"width":400,"height":400,"type":"file","file":"epic 5 - Conversational Dashboard Agent with Graph Visualization.md"}
+	],
+	"edges":[
+		{"id":"3021c5fb39726cf9","fromNode":"9f2766145576e790","fromSide":"right","toNode":"380f9e23b8a440f8","toSide":"left"},
+		{"id":"b81a8005bfa0b6c1","fromNode":"380f9e23b8a440f8","fromSide":"right","toNode":"66015726842a90a2","toSide":"left"},
+		{"id":"15752b47a32749a8","fromNode":"9f8e8d52e7dac6c1","fromSide":"bottom","toNode":"9f2766145576e790","toSide":"top"},
+		{"id":"7aec8ee43b4e1717","fromNode":"66015726842a90a2","fromSide":"bottom","toNode":"8484467df98bf62f","toSide":"top"},
+		{"id":"879580cbfa0d1760","fromNode":"8484467df98bf62f","fromSide":"bottom","toNode":"f21e5f492b7d4327","toSide":"top"},
+		{"id":"5d0d4e022713d3b9","fromNode":"f21e5f492b7d4327","fromSide":"left","toNode":"67102697aa251a48","toSide":"right"},
+		{"id":"b87c80bb9eb2364b","fromNode":"67102697aa251a48","fromSide":"left","toNode":"e47e80353c30d61b","toSide":"right"},
+		{"id":"35c162d153571e5c","fromNode":"e47e80353c30d61b","fromSide":"top","toNode":"a1c0804573564bfa","toSide":"bottom"}
+	]
+}
