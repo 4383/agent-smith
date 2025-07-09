@@ -5,15 +5,15 @@ Author :
 Tags : 
 Date : 2025-06-18
 ***
-Welcome to the Agent Smith Zettelkasten Obsidian vault.
+Welcome to the Agent Smith Zettelkasten [Obsidian](https://obsidian.md/) vault.
 The goal of this vault is to brainstorm around agent smith (editorial lines, ideas, etc).
 
+Before starting, we recommend you to install [Obsidian](https://obsidian.md/) and to open this git repo as an obsidian vault.
 ## Why Zettelkasten?
 
 This repository adopt the [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) methods to allow to a structure to emerge automatically from our various works.
 
 With time it is hard to maintain repo of notes composed of several sub-folders. Folders introduce lot of complexity and the with time the system become hard to maintain. We do not want to spend time maintaining a note system, that's not our goal.Our goal is to spend our time creating valuable things.
-
 ## How to use this vault?
 
 All the notes (apart templates) are at the same level of this git repository (the root level).
@@ -29,50 +29,59 @@ Here are key Zettelkasten concepts:
 - Non MOC notes should be linked to a MOC in a way or another;
 - Non MOC notes can also reference other Non MOC notes;
 - MOC can reference Non MOC notes;
-
-## [[ARCHITECTURE]]
+## Table of Contents
+### [[ARCHITECTURE]]
 
 Proposed [[ARCHITECTURE]] or useful ones.
-## [[ARGUMENTS]]
+### [[ARGUMENTS]]
 
 Our [[ARGUMENTS]]
-## [[CONCEPTS]]
+### [[CONCEPTS]]
 
 Proposed [[CONCEPTS]] or useful ones.
-## [[DESIGN]]
+### [[DESIGN]]
 
 Proposed [[DESIGN]] or useful ones.
-## [[DRAFTS]]
+### [[DRAFTS]]
 
 [[DRAFTS]] to store all kind of drafts that we might create.
-## [[MANIFESTO]]
+### [[MANIFESTO]]
 
 Our [[MANIFESTO]]
-## [[METAPHORS]]
+### [[MARKETING]]
+
+Branding and selling our idea and product to our users (see [[MARKETING]]).
+### [[METAPHORS]]
 
 Our collected or created [[METAPHORS]]
-## [[METHODOLOGIES]]
+### [[METHODOLOGIES]]
 
 [[METHODOLOGIES]] that we should be aware of, or that we may want to use.
-## [[PLAN]]
+### [[PERSONAS]]
+
+Who are our users and what are their profils (see [[PERSONAS]]).
+### [[PLAN]]
 
 Proposed [[PLAN]]
-## [[PROBLEMS]]
+### [[PROBLEMS]]
 
 Identified [[PROBLEMS]]
-## [[SOLUTIONS]]
+### [[SOLUTIONS]]
 
 Proposed [[SOLUTIONS]]
-## [[TEAM]]
+### [[TEAM]]
 
 All [[TEAM]] members.
-## [[TECHNOLOGIES]]
+### [[TECHNOLOGIES]]
 
 [[TECHNOLOGIES]] that we want to use
-## [[TOOLS]]
+### [[TOOLS]]
 
 [[TOOLS]] are common tools that we can use to work with this repository and to reach our goal
-## [[VISION]]
+### [[UX-UI]]
+
+How to offer a good experience to our users (see [[UX-UI]])
+### [[VISION]]
 
 Our [[VISION]]
 ***
