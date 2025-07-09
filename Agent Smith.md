@@ -36,6 +36,11 @@ Proposed [[ARCHITECTURE]] or useful ones.
 ### [[ARGUMENTS]]
 
 Our [[ARGUMENTS]]
+
+### [[COMPONENTS]]
+
+[[COMPONENTS]] of agent smith.
+
 ### [[CONCEPTS]]
 
 Proposed [[CONCEPTS]] or useful ones.
@@ -69,6 +74,10 @@ Proposed [[PLAN]]
 ### [[PROBLEMS]]
 
 Identified [[PROBLEMS]]
+
+### [[ROADMAP]]
+
+Our [[ROADMAP]].
 ### [[SOLUTIONS]]
 
 Proposed [[SOLUTIONS]]

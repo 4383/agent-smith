@@ -68,4 +68,6 @@ This layer introduces intelligence incrementally, without overwhelming the syste
 
 #### Linked To
 
+- [[Jira structure to implement observation and pattern detection]]
+
 #### Contradicted By
