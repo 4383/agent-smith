@@ -45,6 +45,9 @@ Proposed [[DESIGN]] or useful ones.
 ### [[DRAFTS]]
 
 [[DRAFTS]] to store all kind of drafts that we might create.
+### [[INTERVIEWS]]
+
+All our [[INTERVIEWS]].
 ### [[MANIFESTO]]
 
 Our [[MANIFESTO]]
