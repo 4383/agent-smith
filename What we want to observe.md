@@ -1,9 +1,9 @@
 
-MOC : [[TECHNOLOGIES]]
+MOC : [[SOLUTIONS]]
 Source : 
 Author : 
 Tags : 
-Date : 2025-06-26
+Date : 2025-07-11
 ***
 - [[Desir path]]
 ***

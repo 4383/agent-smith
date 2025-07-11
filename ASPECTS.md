@@ -1,13 +1,15 @@
 
-MOC : [[TECHNOLOGIES]]
+MOC : [[Agent Smith]]
 Source : 
 Author : 
 Tags : 
-Date : 2025-06-26
+Date : 2025-07-11
 ***
-- [[Desir path]]
+
 ***
 #### References
+
+- [[Various aspects of agility]]
 
 #### Linked To
 
